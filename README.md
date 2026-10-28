@@ -216,7 +216,7 @@ LinkedIn:
 
 
 
-github: https://github.com/mohaiminul1185/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/edit/main/README.md
+github: https://github.com/mohaiminul1185/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 
 Program: Networkwalks Cybersecurity Internship | Week 01
