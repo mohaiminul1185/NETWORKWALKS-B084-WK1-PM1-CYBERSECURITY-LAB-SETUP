@@ -212,7 +212,7 @@ Md Mohaiminul Islam
 Cybersecurity Intern Batch B084
 
 
-LinkedIn:   
+LinkedIn:   https://lnkd.in/p/gFGHvM6T
 
 
 
